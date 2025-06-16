@@ -166,7 +166,4 @@ python src/main.py
 4. **Analytics**: Integração com ferramentas de analytics
 5. **Testing**: Implementar testes automatizados
 
-## 🏆 Conclusão
-
-1. **To** Chei de preguiça
 
